@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1xmtar62sahg3rhk?svg=true)](https://ci.appveyor.com/project/Zicio/nicknames)
