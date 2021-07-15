@@ -7,7 +7,7 @@ test.each(['1karton', 'kart%on', 'karton5', 'kar1234ton'])(
   },
 );
 
-test.each(['karton', 'kart123on', 'kar_to-n'])(
+test.each(['karton', 'kart123on', 'ka1r_to-n'])(
   ('correct names'),
   (name) => {
     const exemplar = new Validator(name);
